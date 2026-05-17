@@ -1,0 +1,8 @@
+{
+  "name": "Pathfind",
+  "description": "A gentle, minimalistic guide to finding jobs and internships, curated with a mentor's perspective for early-career professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
